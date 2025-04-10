@@ -87,7 +87,7 @@
   },
   "peerDependencies": {
     "react": "16.8.6 || ^17.0.0 || ^18.0.0 || ^19.1.0",
-    "react-native": ">=0.79.0,
+    "react-native": ">=0.79.0",
     "react-syntax-highlighter": ">=15.5.0"
   },
   "engines": {
